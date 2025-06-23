@@ -1,0 +1,29 @@
+#decor{
+    text-align: center;
+    border-bottom: 2px solid black;
+    
+}
+#parents{
+    border:solid 2px;
+    height: 600px;
+width: 700px;
+margin: 50px;
+border-radius: 10px;
+background-color: bisque;
+ box-shadow: 0 0 10px rgba(0,0,0,1.2);
+}
+.start{
+    padding-left: 10px;
+}
+#para{
+    padding-left: 25px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+.end{
+    text-align: right;
+    padding-right: 10px;
+}
